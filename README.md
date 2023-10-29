@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [MA-Abahmane](MA-Abahmane)
 
-- 📝 I regularly write articles on [Projects I accomplished](Projects I accomplished)
+- 📝 I regularly write articles on Projects I accomplished
 
 - 📫 How to reach me **ma.abahmane@gmail.com**
 
