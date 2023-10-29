@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML/CSS**
 
-- 👨‍💻 All of my projects are available at [ma-ww](ma-ww)
+- 👨‍💻 All of my projects are available at [MA-Abahmane](MA-Abahmane)
 
 - 📝 I regularly write articles on [Projects I accomplished](Projects I accomplished)
 
-- 📫 How to reach me **ez@gmail.com**
+- 📫 How to reach me **ma.abahmane@gmail.com**
 
 - ⚡ Fun fact **Spiders are the only web developers that are happy to find bugs**
 
