@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amine Abahmane</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Amine </h1>
 <h3 align="center">I am Amine Abahmane, a software engineer fueled by ambition, empowered by a relentless quest for knowledge, and unwavering in my confidence to shape the future of technology.</h3>
 
 - 🌱 I’m currently learning **JavaScript, HTML/CSS**
