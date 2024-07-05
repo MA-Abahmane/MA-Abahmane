@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=md,bash,bootstrap,tailwind,html,css,javascript,php,vscode,github,git,illustrator,photoshop,premiere,acrobat" />
-    <img src="https://icon-library.com/images/oracle-icon-png/oracle-icon-png-27.jpg"/>
+    <img src="https://icon-library.com/images/oracle-icon-png/oracle-icon-png-27.jpg" width="50px" />
     <img src="https://skillicons.dev/icons?i=c,nodejs,jquery,typescript,java,python,mysql,mongodb,flask,nginx,linux,ubuntu" /><br>
 </div>
 
