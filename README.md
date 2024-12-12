@@ -42,11 +42,13 @@
     <img src="https://skillicons.dev/icons?i=php,java,python,c" />
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
     <img src="https://skillicons.dev/icons?i=bash" />
+    <br/>
     <!-- Frameworks -->
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
     <img src="https://skillicons.dev/icons?i=jquery,react,nodejs" />
     <img src="https://skillicons.dev/icons?i=flask,laravel" />
     <!-- Tools -->
+    <br/>
     <img src="https://skillicons.dev/icons?i=vscode,github,git,npm" />
     <img src="https://skillicons.dev/icons?i=nginx,linux,ubuntu,vite" />
     <img src="https://skillicons.dev/icons?i=illustrator,photoshop,premiere,acrobat" />
