@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Project**
+ 🔭 I’m currently working on **a Secret Project**
  
- 🌱 I’m currently learning **Oracle, Ai and Muay Thai**
+ 🌱 I’m currently learning **AI, Popular Frameworks, and the Back flip**
 
 💬 Ask me about **Algorithmics, Data Structures, OOP... or anything [here](https://github.com/MA-Abahmane/MA-Abahmane/issues)**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=md,bash,vim,bootstrap,tailwind,html,css,javascript,php,vscode,github,git,illustrator,photoshop,premiere,acrobat" />
-    <img src="https://skillicons.dev/icons?i=c,nodejs,jquery,typescript,java,python,mysql,mongodb,flask,nginx,linux,ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=md,bash,vim,bootstrap,tailwind,html,css,javascript,php,vscode,github,git,illustrator,photoshop,premiere,acrobat,figma,laravel,react" />
+    <img src="https://skillicons.dev/icons?i=c,nodejs,jquery,typescript,java,python,mysql,mongodb,flask,nginx,linux,ubuntu,vite,npm" /><br>
 </div>
 
 <br/>
