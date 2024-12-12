@@ -38,12 +38,13 @@
 <br/>
 <div align="center">
     <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,c,typescript,java,python,mysql,mongodb,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,java,python,c,mysql,mongodb,bash" />
     <!-- Frameworks -->
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,flask,react,nodejs,laravel" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,react,nodejs,flask,laravel" />
     <!-- Tools -->
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,illustrator,photoshop,premiere,postman,nginx,linux,ubuntu,vite,npm,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,illustrator,photoshop,premiere,acrobat,postman,nginx,linux,ubuntu,vite,npm,figma" />
 </div>
+
 
 
 <br/>
