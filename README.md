@@ -38,12 +38,21 @@
 <br/>
 <div align="center">
     <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,java,python,c,mysql,mongodb,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript" />
+    <img src="https://skillicons.dev/icons?i=php,java,python,c" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=bash" />
     <!-- Frameworks -->
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,react,nodejs,flask,laravel" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=jquery,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=flask,laravel" />
     <!-- Tools -->
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,illustrator,photoshop,premiere,acrobat,postman,nginx,linux,ubuntu,vite,npm,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,npm" />
+    <img src="https://skillicons.dev/icons?i=nginx,linux,ubuntu,vite" />
+    <img src="https://skillicons.dev/icons?i=illustrator,photoshop,premiere,acrobat" />
+    <img src="https://skillicons.dev/icons?i=postman,figma" />
 </div>
+
 
 
 
