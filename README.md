@@ -42,7 +42,7 @@
     <!-- Frameworks -->
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,flask,react,nodejs,laravel" />
     <!-- Tools -->
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,illustrator,photoshop,premiere,acrobat,postman,nginx,linux,ubuntu,vite,npm,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,illustrator,photoshop,premiere,postman,nginx,linux,ubuntu,vite,npm,figma" />
 </div>
 
 
