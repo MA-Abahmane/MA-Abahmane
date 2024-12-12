@@ -51,7 +51,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=vscode,github,git,npm" />
     <img src="https://skillicons.dev/icons?i=nginx,linux,ubuntu,vite" />
-    <img src="https://skillicons.dev/icons?i=illustrator,photoshop,premiere,acrobat" />
+    <img src="https://skillicons.dev/icons?i=illustrator,photoshop,premiere" />
     <img src="https://skillicons.dev/icons?i=postman,figma" />
 </div>
 
