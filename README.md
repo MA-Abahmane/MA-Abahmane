@@ -48,7 +48,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
     <img src="https://skillicons.dev/icons?i=jquery,react,nodejs" />
     <img src="https://skillicons.dev/icons?i=flask,laravel" />
-    <img src="https://skillicons.dev/icons?i=docker,laravel" />
+    <img src="https://skillicons.dev/icons?i=docker" />
     <!-- Tools -->
     <br/>
     <br/>
