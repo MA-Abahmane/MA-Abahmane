@@ -40,7 +40,7 @@
     <!-- Languages -->
     <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript" />
     <img src="https://skillicons.dev/icons?i=php,java,python,c" />
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
     <img src="https://skillicons.dev/icons?i=bash" />
     <br/>
     <br/>
@@ -48,6 +48,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
     <img src="https://skillicons.dev/icons?i=jquery,react,nodejs" />
     <img src="https://skillicons.dev/icons?i=flask,laravel" />
+    <img src="https://skillicons.dev/icons?i=docker,laravel" />
     <!-- Tools -->
     <br/>
     <br/>
